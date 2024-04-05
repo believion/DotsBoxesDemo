@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "BoxGame",
+  "id": "4eaf75d9-3098-43ac-91f9-1179a6eba35d",
+  "version": "2.4.8",
+  "isNew": false
+}
